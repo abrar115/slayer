@@ -1,0 +1,9 @@
+{
+    "first": true,
+    "combat": false,
+    "pet": true,
+    "load": true,
+    "slayer": false,
+    "Chat": true,
+    "title": false
+}
